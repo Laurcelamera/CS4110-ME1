@@ -1,2 +1,9 @@
 # CS4110-ME1
 Machine Exercise No. 1
+**Reaction paper on Alan Turing’s “Computing Machinery and Intelligence” (1950).**
+
+Turing's decision to reframe the question "Can machines think?" into the more tangible "Can a machine play the imitation game?" reflects his pragmatic approach to what could otherwise be an unproductive philosophical debate. He avoids getting bogged down in the definition of "thinking," which at the time was (and still is) a controversial and ill-defined concept. Instead, he suggests the "imitation game"—later known as the Turing Test—as a criterion for machine intelligence. In this game, a machine passes the test if it can convincingly imitate human responses in a conversation, thereby tricking a human into believing it is a person.
+
+Turing's central argument revolves around the idea that if a machine can convincingly mimic human intelligence in a conversation, then it should be considered intelligent. The imitation game, often referred to as the Turing Test, involves a human interrogator conversing with both a human and a machine, attempting to determine which is which. If the machine can deceive the interrogator, it has passed the test. While Turing's paper was a groundbreaking contribution to the field of AI, it also raised several criticisms and considerations. Some argue that the Turing Test is too narrow a measure of intelligence, focusing primarily on linguistic ability rather than other cognitive functions. 
+
+Alan Turing’s "Computing Machinery and Intelligence" remains a seminal work, not just for its technical insight but also for the philosophical depth with which it engages fundamental questions about intelligence, mind, and machine. His imitation game offers a pragmatic solution to the question of machine intelligence, one that sidesteps metaphysical debates in favor of observable performance. 
